@@ -58,7 +58,9 @@ local.properties
 *.ipr
 *.ids
 *.orig
-
+target
+out
+.env
 ######################
 # Visual Studio Code
 ######################
